@@ -1,0 +1,3 @@
+c cnf is file type, first num is variables, second num is clauses
+p cnf 729 8577
+No Arguments: provide a puzzle file
